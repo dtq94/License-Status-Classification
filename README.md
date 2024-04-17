@@ -29,3 +29,15 @@ Libraries: pandas, scikit_learn, category_encoders, numpy, os, seaborn, matplotl
 -- Macro average
 -- Weighted average
 - Feature importance
+
+## Project Structure
+```
+|-- InputFiles
+    -- License_data.csv
+|-- SourceFolder
+    |-- ML_Pipeline
+        -- model_selection.py
+        -- preprocessingpy
+        -- utils.py
+    |-- Engine.py
+
