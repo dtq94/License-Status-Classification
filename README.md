@@ -1,10 +1,16 @@
 # **License Status Prediction: Multi-label Classification Approach with KNN, Naive Bayes, Logistic Regression, Decision Trees, Random Forest, AdaBoost, and XGBoost**
 
 ### Objective
-To predict license status for the given business.
+To predict license status for the given business with multi label classification.
 
 ## Data Description
 The dataset used is a licensed dataset. It contains information about 86K different businesses over various features. The target variable is the status of license which has five different categories.
+- **Target Variable Classifications:**
+1. AAI - License status is issued
+2. AAC - License status is cancelled
+3. REV - License status is revoked
+4. REA - License status is revoked and appealed
+5. INQ - License status is in enquiry
 
 ## Tech Stack
 - Language: Python
