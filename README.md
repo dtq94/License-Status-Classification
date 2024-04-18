@@ -15,8 +15,8 @@ matplotlib, hyperopt, xgboost
 - Data Description
 - Exploratory Data Analysis
 - Data Cleaning
--- Missing Value imputation
--- Outlier Detection
+  - Missing Value imputation
+  - Outlier Detection
 - Data Imbalance
 - Data Encoding
 - Model Building
